@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    box-sizing: border-box;
+}
+.pricing {
+   padding: 80px 0 60px;
+   background-color: rgb(243, 242, 242);
+}
+.container {
+    max-width: 1170px;
+  padding: 0 15px;
+  margin: auto;
+}
+.title {
+}
+.line {
+}
+.price-options {
+    margin: auto;
+  text-align: center;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  width: 600px;
+  margin-bottom: 50px;
+  color:#948e8e
+}
+.pricing-wrap {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 0 15px;
+          
+}
+.card {
+    width: 340px;
+    margin: 0 15px;
+        
+}
+.pricing-card_level {
+    line-height: 50px;
+    text-align: center;
+    margin-bottom: 2px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    color: white;
+    background: rgb(59, 59, 59);
+}
+.pricing-card_price {
+    line-height: 100px;
+    text-align: center;
+    margin-bottom: 2px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 35px;
+    color: white;
+    background: rgb(59, 59, 59);
+}
+.pricing-card_description {
+    line-height: 50px;
+    text-align: center;
+    margin-bottom: 2px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    color: gray;
+    background: rgb(59, 59, 59);
+}
+.pricing-card_space {
+    line-height: 50px;
+    text-align: center;
+    margin-bottom: 2px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    color: gray;
+    background: white;
+}
+.pricing {
+}
